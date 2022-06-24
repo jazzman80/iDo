@@ -1,4 +1,4 @@
-# ido
+# iDo
 
 A ToDo application
 

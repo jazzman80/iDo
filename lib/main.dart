@@ -11,7 +11,7 @@ void main() {
     ChangeNotifierProvider(
       create: (context) => BusinessModel(),
       child: DevicePreview(
-        enabled: true,
+        enabled: false,
         builder: (context) => const IdoApp(),
       ),
     ),
