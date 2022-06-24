@@ -2,15 +2,14 @@
 
 A ToDo application
 
-## Getting Started
+## What can this app do?
 
-This project is a starting point for a Flutter application.
+The Todo application allows you to add tasks to a list, 
+mark the completion and clear completed tasks. The task list 
+is saved locally when changes are made.
 
-A few resources to get you started if this is your first Flutter project:
+Todo приложение позволяет добавлять задачи в лист, отмечать 
+выполнение и очищать выполненные задачи. Лист задач сохраняется 
+локально при изменениях.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](images/screenshot_1.png) ![](images/screenshot_2.png)
